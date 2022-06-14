@@ -1,4 +1,6 @@
 ## Usage
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOneTrueKyle%2FDUFF.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FOneTrueKyle%2FDUFF?ref=badge_shield)
+
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
 
@@ -32,3 +34,7 @@ Your app is ready to be deployed!
 ## Deployment
 
 You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOneTrueKyle%2FDUFF.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FOneTrueKyle%2FDUFF?ref=badge_large)
